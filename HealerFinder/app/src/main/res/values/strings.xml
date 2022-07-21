@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Healer Finder</string>
+    <string name="greet1">Welcome,</string>
+    <string name="greet2">Problem to find nearby Hospital/Clinic?</string>
+    <string name="greet3">Where am I?</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_home">Locate exact nearby Hospital/Clinic now!</string>
+    <string name="lect">Prepared for Sir Mohammad Hafiz Bin Ismail</string>
+    <string name="hyperlink">Explore more at <a href="https://github.com/MhdHaziqAnuar">HealerFinder.com</a></string>
+    <string name="copyright">Copyright &#169; 2022 Kimie/Haziq/Izzat/Mas/Ezzatul</string>
+    <string name="appdesc">Application to guide the user to the nearby Hospital/clinic within their
+        environment. </string>
+    <string name="kimie">Hakimie Azraei</string>
+    <string name="kimieid">2021172547</string>
+    <string name="haziq">Haziq Anuar</string>
+    <string name="haziqid">2021125567</string>
+    <string name="izzat">Izzat Hakim</string>
+    <string name="izzatid">2021102563</string>
+    <string name="mas">Mas Alya</string>
+    <string name="masid">2020987555</string>
+    <string name="ezzatul">Ezzatul Husna</string>
+    <string name="ezzatulid">2021119877</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <string name="report">You can post your location information to our server.</string>
+</resources>
